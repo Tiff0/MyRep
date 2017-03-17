@@ -31,6 +31,7 @@ public class Homework {
 
             sym = (char) ((int) sym & 65503);
             out.print(sym + " ");
+            System.out.println("Hello World!");
         }
     }
 }
